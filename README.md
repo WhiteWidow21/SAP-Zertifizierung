@@ -18,3 +18,4 @@ npm run dev
 
 1️⃣ `npm run build`  
 2️⃣ Lade den `dist`-Ordner bei Netlify hoch oder verbinde ein Git-Repo
+"# SAP-Zertifizierung" 
